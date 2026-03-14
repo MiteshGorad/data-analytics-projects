@@ -126,7 +126,7 @@ Customer_Churn_Prediction
 ├── churn_prediction.py
 ├── telecom_churn.csv
 ├── model_results.csv
-├── requirements.txt
+├── customer-churn-prediction.ipynb
 │
 ├── outputs
 │   ├── fig1_eda.png
