@@ -1,0 +1,151 @@
+product_id,name,category,brand,price,avg_rating,num_reviews,tags
+P0000,Apple Electronics Item 1,Electronics,Apple,323.32,3.2,573,electronics apple
+P0001,Samsung Clothing Item 2,Clothing,Samsung,130.0,3.4,219,clothing samsung
+P0002,Nike Books Item 3,Books,Nike,341.58,4.7,188,books nike
+P0003,Adidas Home & Garden Item 4,Home & Garden,Adidas,299.34,3.3,201,home & garden adidas
+P0004,Sony Sports Item 5,Sports,Sony,117.13,4.1,64,sports sony
+P0005,Philips Beauty Item 6,Beauty,Philips,285.01,4.4,1446,beauty philips
+P0006,Bosch Toys Item 7,Toys,Bosch,277.02,3.6,1216,toys bosch
+P0007,LOreal Food Item 8,Food,LOreal,146.31,4.7,1564,food loreal
+P0008,Hasbro Electronics Item 9,Electronics,Hasbro,404.85,4.4,706,electronics hasbro
+P0009,Apple Clothing Item 10,Clothing,Apple,146.16,3.6,1573,clothing apple
+P0010,Samsung Books Item 11,Books,Samsung,174.93,3.4,208,books samsung
+P0011,Nike Home & Garden Item 12,Home & Garden,Nike,185.9,3.8,551,home & garden nike
+P0012,Adidas Sports Item 13,Sports,Adidas,405.49,4.4,1108,sports adidas
+P0013,Sony Beauty Item 14,Beauty,Sony,71.16,4.8,171,beauty sony
+P0014,Philips Toys Item 15,Toys,Philips,280.5,4.6,1276,toys philips
+P0015,Bosch Food Item 16,Food,Bosch,443.87,3.8,403,food bosch
+P0016,LOreal Electronics Item 17,Electronics,LOreal,355.24,3.3,476,electronics loreal
+P0017,Hasbro Clothing Item 18,Clothing,Hasbro,388.8,4.9,1761,clothing hasbro
+P0018,Apple Books Item 19,Books,Apple,124.07,3.4,579,books apple
+P0019,Samsung Home & Garden Item 20,Home & Garden,Samsung,232.17,4.6,343,home & garden samsung
+P0020,Nike Sports Item 21,Sports,Nike,191.39,3.6,556,sports nike
+P0021,Adidas Beauty Item 22,Beauty,Adidas,353.89,4.4,156,beauty adidas
+P0022,Sony Toys Item 23,Toys,Sony,308.47,3.5,1503,toys sony
+P0023,Philips Food Item 24,Food,Philips,129.96,4.0,562,food philips
+P0024,Bosch Electronics Item 25,Electronics,Bosch,494.87,4.3,1150,electronics bosch
+P0025,LOreal Clothing Item 26,Clothing,LOreal,117.61,3.8,1583,clothing loreal
+P0026,Hasbro Books Item 27,Books,Hasbro,390.24,3.6,75,books hasbro
+P0027,Apple Home & Garden Item 28,Home & Garden,Apple,404.47,3.9,145,home & garden apple
+P0028,Samsung Sports Item 29,Sports,Samsung,113.38,4.8,1804,sports samsung
+P0029,Nike Beauty Item 30,Beauty,Nike,361.78,3.6,1032,beauty nike
+P0030,Adidas Toys Item 31,Toys,Adidas,203.86,4.8,949,toys adidas
+P0031,Sony Food Item 32,Food,Sony,80.01,3.4,1535,food sony
+P0032,Philips Electronics Item 33,Electronics,Philips,285.07,3.6,1207,electronics philips
+P0033,Bosch Clothing Item 34,Clothing,Bosch,219.93,4.2,751,clothing bosch
+P0034,LOreal Books Item 35,Books,LOreal,117.47,4.9,1053,books loreal
+P0035,Hasbro Home & Garden Item 36,Home & Garden,Hasbro,251.82,4.5,1773,home & garden hasbro
+P0036,Apple Sports Item 37,Sports,Apple,63.73,4.3,1632,sports apple
+P0037,Samsung Beauty Item 38,Beauty,Samsung,343.44,4.2,798,beauty samsung
+P0038,Nike Toys Item 39,Toys,Nike,196.99,4.9,1093,toys nike
+P0039,Adidas Food Item 40,Food,Adidas,133.19,4.1,1940,food adidas
+P0040,Sony Electronics Item 41,Electronics,Sony,15.63,4.4,1406,electronics sony
+P0041,Philips Clothing Item 42,Clothing,Philips,443.55,4.5,1584,clothing philips
+P0042,Bosch Books Item 43,Books,Bosch,324.07,3.4,900,books bosch
+P0043,LOreal Home & Garden Item 44,Home & Garden,LOreal,87.5,3.2,1488,home & garden loreal
+P0044,Hasbro Sports Item 45,Sports,Hasbro,439.17,3.6,1035,sports hasbro
+P0045,Apple Beauty Item 46,Beauty,Apple,383.36,4.1,227,beauty apple
+P0046,Samsung Toys Item 47,Toys,Samsung,436.55,3.7,1318,toys samsung
+P0047,Nike Food Item 48,Food,Nike,258.75,3.5,775,food nike
+P0048,Adidas Electronics Item 49,Electronics,Adidas,383.63,4.1,1604,electronics adidas
+P0049,Sony Clothing Item 50,Clothing,Sony,461.99,4.8,1236,clothing sony
+P0050,Philips Books Item 51,Books,Philips,168.84,3.2,1912,books philips
+P0051,Bosch Home & Garden Item 52,Home & Garden,Bosch,187.86,4.9,1662,home & garden bosch
+P0052,LOreal Sports Item 53,Sports,LOreal,160.68,3.3,1808,sports loreal
+P0053,Hasbro Beauty Item 54,Beauty,Hasbro,288.0,3.3,1508,beauty hasbro
+P0054,Apple Toys Item 55,Toys,Apple,248.14,3.3,1567,toys apple
+P0055,Samsung Food Item 56,Food,Samsung,271.03,3.4,1361,food samsung
+P0056,Nike Electronics Item 57,Electronics,Nike,242.89,4.1,552,electronics nike
+P0057,Adidas Clothing Item 58,Clothing,Adidas,268.56,4.2,1985,clothing adidas
+P0058,Sony Books Item 59,Books,Sony,113.78,4.1,1504,books sony
+P0059,Philips Home & Garden Item 60,Home & Garden,Philips,348.04,4.4,827,home & garden philips
+P0060,Bosch Sports Item 61,Sports,Bosch,497.62,4.3,907,sports bosch
+P0061,LOreal Beauty Item 62,Beauty,LOreal,450.81,4.0,517,beauty loreal
+P0062,Hasbro Toys Item 63,Toys,Hasbro,120.1,3.8,1214,toys hasbro
+P0063,Apple Food Item 64,Food,Apple,281.42,4.2,24,food apple
+P0064,Samsung Electronics Item 65,Electronics,Samsung,44.79,4.3,478,electronics samsung
+P0065,Nike Clothing Item 66,Clothing,Nike,43.03,3.3,686,clothing nike
+P0066,Adidas Books Item 67,Books,Adidas,44.72,3.6,1380,books adidas
+P0067,Sony Home & Garden Item 68,Home & Garden,Sony,247.85,4.1,1491,home & garden sony
+P0068,Philips Sports Item 69,Sports,Philips,468.4,4.2,978,sports philips
+P0069,Bosch Beauty Item 70,Beauty,Bosch,129.07,4.0,843,beauty bosch
+P0070,LOreal Toys Item 71,Toys,LOreal,103.3,3.4,892,toys loreal
+P0071,Hasbro Food Item 72,Food,Hasbro,183.61,3.9,1779,food hasbro
+P0072,Apple Electronics Item 73,Electronics,Apple,367.25,4.3,1333,electronics apple
+P0073,Samsung Clothing Item 74,Clothing,Samsung,58.22,3.9,704,clothing samsung
+P0074,Nike Books Item 75,Books,Nike,402.29,3.4,402,books nike
+P0075,Adidas Home & Garden Item 76,Home & Garden,Adidas,103.2,4.0,874,home & garden adidas
+P0076,Sony Sports Item 77,Sports,Sony,99.91,4.0,1800,sports sony
+P0077,Philips Beauty Item 78,Beauty,Philips,462.4,4.0,1774,beauty philips
+P0078,Bosch Toys Item 79,Toys,Bosch,429.42,3.4,1345,toys bosch
+P0079,LOreal Food Item 80,Food,LOreal,499.65,4.6,1994,food loreal
+P0080,Hasbro Electronics Item 81,Electronics,Hasbro,55.7,4.5,494,electronics hasbro
+P0081,Apple Clothing Item 82,Clothing,Apple,91.49,4.0,447,clothing apple
+P0082,Samsung Books Item 83,Books,Samsung,433.68,4.7,347,books samsung
+P0083,Nike Home & Garden Item 84,Home & Garden,Nike,195.7,4.9,553,home & garden nike
+P0084,Adidas Sports Item 85,Sports,Adidas,463.99,4.5,594,sports adidas
+P0085,Sony Beauty Item 86,Beauty,Sony,217.27,4.8,1614,beauty sony
+P0086,Philips Toys Item 87,Toys,Philips,282.33,4.4,327,toys philips
+P0087,Bosch Food Item 88,Food,Bosch,103.05,3.6,129,food bosch
+P0088,LOreal Electronics Item 89,Electronics,LOreal,293.8,4.1,1541,electronics loreal
+P0089,Hasbro Clothing Item 90,Clothing,Hasbro,163.67,3.3,986,clothing hasbro
+P0090,Apple Books Item 91,Books,Apple,256.4,4.6,332,books apple
+P0091,Samsung Home & Garden Item 92,Home & Garden,Samsung,37.87,4.1,1753,home & garden samsung
+P0092,Nike Sports Item 93,Sports,Nike,101.05,4.2,1392,sports nike
+P0093,Adidas Beauty Item 94,Beauty,Adidas,432.29,3.9,1938,beauty adidas
+P0094,Sony Toys Item 95,Toys,Sony,446.24,3.6,1227,toys sony
+P0095,Philips Food Item 96,Food,Philips,29.47,3.3,1356,food philips
+P0096,Bosch Electronics Item 97,Electronics,Bosch,296.0,4.1,1924,electronics bosch
+P0097,LOreal Clothing Item 98,Clothing,LOreal,137.78,4.3,653,clothing loreal
+P0098,Hasbro Books Item 99,Books,Hasbro,126.96,3.9,1385,books hasbro
+P0099,Apple Home & Garden Item 100,Home & Garden,Apple,326.3,4.0,1912,home & garden apple
+P0100,Samsung Sports Item 101,Sports,Samsung,378.41,3.3,948,sports samsung
+P0101,Nike Beauty Item 102,Beauty,Nike,314.37,4.2,214,beauty nike
+P0102,Adidas Toys Item 103,Toys,Adidas,45.9,3.6,553,toys adidas
+P0103,Sony Food Item 104,Food,Sony,74.9,3.8,150,food sony
+P0104,Philips Electronics Item 105,Electronics,Philips,440.84,3.8,333,electronics philips
+P0105,Bosch Clothing Item 106,Clothing,Bosch,224.71,4.1,629,clothing bosch
+P0106,LOreal Books Item 107,Books,LOreal,309.72,4.9,1349,books loreal
+P0107,Hasbro Home & Garden Item 108,Home & Garden,Hasbro,269.18,4.3,1145,home & garden hasbro
+P0108,Apple Sports Item 109,Sports,Apple,156.7,4.3,1932,sports apple
+P0109,Samsung Beauty Item 110,Beauty,Samsung,440.28,3.6,1832,beauty samsung
+P0110,Nike Toys Item 111,Toys,Nike,62.45,4.1,567,toys nike
+P0111,Adidas Food Item 112,Food,Adidas,148.06,3.6,712,food adidas
+P0112,Sony Electronics Item 113,Electronics,Sony,109.76,4.3,550,electronics sony
+P0113,Philips Clothing Item 114,Clothing,Philips,257.65,3.6,1869,clothing philips
+P0114,Bosch Books Item 115,Books,Bosch,424.59,3.4,877,books bosch
+P0115,LOreal Home & Garden Item 116,Home & Garden,LOreal,416.38,3.3,693,home & garden loreal
+P0116,Hasbro Sports Item 117,Sports,Hasbro,387.85,4.3,546,sports hasbro
+P0117,Apple Beauty Item 118,Beauty,Apple,89.18,4.0,1455,beauty apple
+P0118,Samsung Toys Item 119,Toys,Samsung,219.57,3.2,164,toys samsung
+P0119,Nike Food Item 120,Food,Nike,473.07,4.4,315,food nike
+P0120,Adidas Electronics Item 121,Electronics,Adidas,277.34,4.6,1202,electronics adidas
+P0121,Sony Clothing Item 122,Clothing,Sony,280.74,3.9,95,clothing sony
+P0122,Philips Books Item 123,Books,Philips,161.05,4.7,1640,books philips
+P0123,Bosch Home & Garden Item 124,Home & Garden,Bosch,486.38,3.3,742,home & garden bosch
+P0124,LOreal Sports Item 125,Sports,LOreal,112.94,3.6,220,sports loreal
+P0125,Hasbro Beauty Item 126,Beauty,Hasbro,183.3,4.2,1801,beauty hasbro
+P0126,Apple Toys Item 127,Toys,Apple,209.12,4.3,326,toys apple
+P0127,Samsung Food Item 128,Food,Samsung,463.62,3.6,342,food samsung
+P0128,Nike Electronics Item 129,Electronics,Nike,488.34,4.6,1815,electronics nike
+P0129,Adidas Clothing Item 130,Clothing,Adidas,212.02,3.5,1903,clothing adidas
+P0130,Sony Books Item 131,Books,Sony,172.77,4.8,1652,books sony
+P0131,Philips Home & Garden Item 132,Home & Garden,Philips,338.25,4.4,518,home & garden philips
+P0132,Bosch Sports Item 133,Sports,Bosch,140.73,4.5,231,sports bosch
+P0133,LOreal Beauty Item 134,Beauty,LOreal,197.45,3.3,973,beauty loreal
+P0134,Hasbro Toys Item 135,Toys,Hasbro,118.99,4.6,952,toys hasbro
+P0135,Apple Food Item 136,Food,Apple,181.33,4.6,1794,food apple
+P0136,Samsung Electronics Item 137,Electronics,Samsung,121.52,3.2,405,electronics samsung
+P0137,Nike Clothing Item 138,Clothing,Nike,205.25,3.7,152,clothing nike
+P0138,Adidas Books Item 139,Books,Adidas,483.78,3.7,1323,books adidas
+P0139,Sony Home & Garden Item 140,Home & Garden,Sony,259.61,4.4,1737,home & garden sony
+P0140,Philips Sports Item 141,Sports,Philips,272.75,4.8,246,sports philips
+P0141,Bosch Beauty Item 142,Beauty,Bosch,439.75,3.6,1199,beauty bosch
+P0142,LOreal Toys Item 143,Toys,LOreal,481.64,3.7,232,toys loreal
+P0143,Hasbro Food Item 144,Food,Hasbro,302.32,3.8,1620,food hasbro
+P0144,Apple Electronics Item 145,Electronics,Apple,163.7,4.2,1057,electronics apple
+P0145,Samsung Clothing Item 146,Clothing,Samsung,66.67,4.7,399,clothing samsung
+P0146,Nike Books Item 147,Books,Nike,134.81,4.4,13,books nike
+P0147,Adidas Home & Garden Item 148,Home & Garden,Adidas,264.76,4.6,1416,home & garden adidas
+P0148,Sony Sports Item 149,Sports,Sony,362.52,4.5,1383,sports sony
+P0149,Philips Beauty Item 150,Beauty,Philips,106.55,3.9,1953,beauty philips
